@@ -17,7 +17,7 @@ namespace pruebamvc.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Esto es una decripcion de pagina";
 
             return View();
         }
