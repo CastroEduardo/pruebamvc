@@ -1,0 +1,10 @@
+/home/soporte/Escritorio/pruebamvc/bin/Debug/netcoreapp2.0/pruebamvc.deps.json
+/home/soporte/Escritorio/pruebamvc/bin/Debug/netcoreapp2.0/pruebamvc.runtimeconfig.json
+/home/soporte/Escritorio/pruebamvc/bin/Debug/netcoreapp2.0/pruebamvc.runtimeconfig.dev.json
+/home/soporte/Escritorio/pruebamvc/bin/Debug/netcoreapp2.0/pruebamvc.dll
+/home/soporte/Escritorio/pruebamvc/bin/Debug/netcoreapp2.0/pruebamvc.pdb
+/home/soporte/Escritorio/pruebamvc/obj/Debug/netcoreapp2.0/pruebamvc.csproj.CoreCompileInputs.cache
+/home/soporte/Escritorio/pruebamvc/obj/Debug/netcoreapp2.0/pruebamvc.AssemblyInfoInputs.cache
+/home/soporte/Escritorio/pruebamvc/obj/Debug/netcoreapp2.0/pruebamvc.AssemblyInfo.cs
+/home/soporte/Escritorio/pruebamvc/obj/Debug/netcoreapp2.0/pruebamvc.dll
+/home/soporte/Escritorio/pruebamvc/obj/Debug/netcoreapp2.0/pruebamvc.pdb
